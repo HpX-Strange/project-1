@@ -1,0 +1,68 @@
+#head {
+  font-size: 3em;
+  color: rgb(107, 47, 47);
+  background-color: blanchedalmond;
+  padding: 6px;
+  text-align: center;
+  font-family: "Mukta", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+svg {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+h2 {
+  text-align: center;
+}
+.pic {
+  height: 300px;
+  width: 500px;
+  box-shadow: 5px;
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+}
+tr,
+td {
+  height: 40px;
+  width: 18vw;
+  padding: 20px;
+
+  background-color: blanchedalmond;
+}
+.tableheading {
+  font-weight: bolder;
+  font-size: 35px;
+  text-align: center;
+  text-shadow: 0px 0px 5px red;
+}
+.tablecontent {
+  font-weight: 500;
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+}
+h2{
+  text-shadow: 2px 2px 5px red;
+}
+.foot{
+  height: 40px;
+  background-color: blanchedalmond;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+
+
+.logo:hover{
+  transform: rotate(45deg);
+}
+
+.imgdisplay:hover{
+  box-shadow: 15px 15px 10px rgb(120, 74, 3);
+
+}
